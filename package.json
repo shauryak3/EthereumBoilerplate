@@ -1,0 +1,22 @@
+{
+  "name": "ethereumboilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for ethereum smart contract deployment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shauryak3/EthereumBoilerplate.git"
+  },
+  "author": "shaurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shauryak3/EthereumBoilerplate/issues"
+  },
+  "homepage": "https://github.com/shauryak3/EthereumBoilerplate#readme",
+  "dependencies": {
+    "solc": "^0.4.25"
+  }
+}
